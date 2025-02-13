@@ -1,7 +1,7 @@
 # PROYECTO_JS
 Un proyecto para una materia de la universidad.
 
-<img src="https://i.postimg.cc/SsQGbTy4/tra.png" alt="Imagen del proyecto" width="1000" height="500">
+<img src="https://i.postimg.cc/QdjDF1fG/1.png" alt="Imagen del proyecto" width="1000" height="500">
 
 ## Descripción
 Este repositorio contiene el desarrollo de un proyecto para la materia de **[Gestión de Proyectos]** en la universidad. Aquí encontrarás los archivos y el código relacionado.
